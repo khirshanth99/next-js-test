@@ -1,0 +1,1 @@
+export const INDIVIDUAL_EXHIBITION_PAGE = '/exhibition';
